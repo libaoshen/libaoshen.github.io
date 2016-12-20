@@ -4,5 +4,5 @@ layout: frontpage
 
 ## 欢迎大家来到我的个人主页
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+这里是我分享自己所见、所听、所学和所思的地方。我主要关注与软件开发，主要涉及C、C++、Java等语言，以及WEB开发、移动Andro开发。
+同时也会记录我的日常生活和工作，发泄自己的喜怒哀愁。 
