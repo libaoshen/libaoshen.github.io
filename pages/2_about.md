@@ -26,7 +26,7 @@ permalink: /about/
 
 						   基本信息
 					   ------------------------
-					   ![image03](https://github.com/libaoshen/libaoshen.github.io/blob/master/images/logo.JPG)
+					   ![image03](libaoshen.github.io/static/img/logo.JPG )
 					   姓名: libaoshen
 					   生日: 1994年12月11日
 					   性别: 男
