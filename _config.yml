@@ -20,7 +20,8 @@ newsourceroot: https://github.com/libaoshen/libaoshen.github.io
 
 # Build settings
 markdown: kramdown
-
+visitor_first: 您是第
+visitor_second: 位访客
 # highlight
 # highlighter: pygments
 # highlighter: rouge
