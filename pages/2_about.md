@@ -26,7 +26,7 @@ permalink: /about/
 
 						   基本信息
 					   ------------------------
-					   http://omudax3hz.bkt.clouddn.com/image/myInfo/libaoshen.JPG
+					   ![我的图片](http://omudax3hz.bkt.clouddn.com/image/myInfo/libaoshen.JPG "图片")
 					   姓名: libaoshen
 					   生日: 1994年12月11日
 					   性别: 男
