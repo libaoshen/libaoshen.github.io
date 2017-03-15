@@ -23,7 +23,7 @@ permalink: /about/
 
 ### 关于我
 我的个人信息
-<img style="margin-top: 10px;float: left;" width="50px" height="50px" src="http://omudax3hz.bkt.clouddn.com/image/myInfo/libaoshen.JPG"/>
+<img style="margin-top: 10px;float: left;" width="200px" height="150px" src="http://omudax3hz.bkt.clouddn.com/image/myInfo/libaoshen.JPG"/>
 
 						   基本信息
 					   ------------------------
