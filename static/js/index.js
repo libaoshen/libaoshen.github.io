@@ -114,7 +114,7 @@ function backToTop() {
     //点击回到顶部
     $("#top").click(function() {
         $("body").animate({
-            scrollTop: "0"
+            scrollTop:0
         }, 500);
     });
 
